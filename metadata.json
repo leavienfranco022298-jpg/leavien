@@ -1,0 +1,8 @@
+{
+  "name": "LEAVIEN AI",
+  "description": "LEAVIEN AI — AI-supported offline and online General Mathematics diagnostic, remediation, and advancement learning studio for students and teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
